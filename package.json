@@ -21,7 +21,7 @@
     "@angular/router": "^18.0.3",
     "@angular/ssr": "^18.0.5",
     "ansi-to-html": "^0.7.2",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "marked": "^12.0.2",
     "ngx-clipboard": "^16.0.0",
     "ngx-highlightjs": "^12.0.0",
